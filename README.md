@@ -215,7 +215,3 @@ The Prolog implementation successfully detected dirty rooms, cleaned them, moved
 
 ---
 
-
-**Branch:** ENTC
-
-**Batch:** A2
